@@ -1,0 +1,24 @@
+{
+  "name": "taller-nodejs",
+  "version": "1.0.0",
+  "description": "taller nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmb-96/taller-nodeJS.git"
+  },
+  "author": "mmb-96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmb-96/taller-nodeJS/issues"
+  },
+  "homepage": "https://github.com/mmb-96/taller-nodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "voca": "^1.4.0"
+  }
+}
